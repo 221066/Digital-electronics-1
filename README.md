@@ -103,4 +103,4 @@ begin
   
 end architecture dataflow;
 ```
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](221066/Digital-electronics-1/blob/main/Wave1.png)
