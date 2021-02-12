@@ -3,6 +3,7 @@
 ## Github link:
 https://github.com/221066/Digital-electronics-1.git
 
+
 ## Verification of De Morgan's laws of function f(c,b,a)
 ### Testbench.vhd
 ```
