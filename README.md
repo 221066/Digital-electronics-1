@@ -103,4 +103,4 @@ begin
   
 end architecture dataflow;
 ```
-![Alt text](blob/main/Wave1.png)
+![Alt text](https://github.com/221066/Digital-electronics-1/blob/main/Wave2.png)
