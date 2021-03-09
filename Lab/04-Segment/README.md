@@ -202,8 +202,6 @@ p_stimulus : process
 ### List of VHDL code for LEDs(7:4) 
 
 ```vhdl
--- Connect one common anode to 3.3V
-AN <= b"1111_0111";
 -- Display input value on LEDs
 LED(3 downto 0) <= SW;
 
