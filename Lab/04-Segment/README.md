@@ -223,4 +223,4 @@ LED(7)  <= '1' when (SW = "0001" or SW = "0010" or SW = "0100" or SW = "1000") e
 
 ### Waveform
 
-![](Screen/2g.png
+![](Screen/2g.png)
