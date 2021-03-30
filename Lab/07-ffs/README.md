@@ -12,7 +12,8 @@ Link to my repository: [Rohal(221066)/Digital-electronics-1](https://github.com/
 
 ![](Screen/eq_T.png)
 
-### Table for D_ff
+### Tables for
+### D_ff
 
 | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
 | :-: | :-: | :-: | :-: | :-- |
@@ -21,7 +22,7 @@ Link to my repository: [Rohal(221066)/Digital-electronics-1](https://github.com/
 | ![rising](Screen/up.png) | 1 | 0 | 1 | Store |
 | ![rising](Screen/up.png) | 1 | 1 | 1 | No change |
 
-### Table for JK_ff
+### JK_ff
 
 | **clk** | **j** | **k** | **q(n)** | **q(n+1)** | **Comments** |
 | :-: | :-: | :-: | :-: | :-: | :-- |
@@ -34,7 +35,7 @@ Link to my repository: [Rohal(221066)/Digital-electronics-1](https://github.com/
 | ![rising](Screen/up.png) | 1 | 1 | 0 | 1 | Toggle |
 | ![rising](Screen/up.png) | 1 | 1 | 1 | 0 | Toggle |
 
-### Table for T_ff
+### T_ff
 
 | **clk** | **t** | **q(n)** | **q(n+1)** | **Comments** |
 | :-: | :-: | :-: | :-: | :-- |
