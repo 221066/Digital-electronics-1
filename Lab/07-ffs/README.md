@@ -243,7 +243,7 @@ Link to my repository: [Rohal(221066)/Digital-electronics-1](https://github.com/
   end process p_t_ff_rst;
 ```
 
-### (`tb_d_ff_arst`)
+### VHDL code of (`tb_d_ff_arst`)
 
 ```vhdl
 p_clk_gen : process
@@ -323,7 +323,7 @@ p_clk_gen : process
     end process p_stimulus;
 ```
 
-### (`tb_d_ff_rst`)
+### VHDL code of (`tb_d_ff_rst`)
 
 ```vhdl
  p_clk_gen : process
@@ -396,7 +396,7 @@ p_clk_gen : process
     end process p_stimulus;        
 ```
 
-### (`tb_jk_ff_rst`)
+### VHDL code of (`tb_jk_ff_rst`)
 
 ```vhdl
  p_reset_gen : process
@@ -466,7 +466,7 @@ p_clk_gen : process
  end process p_stimulus;
 ```
 
-### (`tb_t_ff_rst`)
+### VHDL code of (`tb_t_ff_rst`)
 
 ```vhdl
 p_reset_gen : process
