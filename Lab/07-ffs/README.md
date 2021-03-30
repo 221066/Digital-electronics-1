@@ -531,6 +531,6 @@ p_reset_gen : process
 
 ## 4. Shift register 
 
-![](Screen/reg.png)
+![](Screen/reg.jpg)
 
 
