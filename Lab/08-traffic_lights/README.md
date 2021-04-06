@@ -27,7 +27,7 @@ Link to my repository: [Rohal(221066)/Digital-electronics-1](https://github.com/
 
 ### State diagram
 
-![](Screen/dig.jpg)
+![](Screen/dia.jpg)
 
 ### Listing of VHDL code of (`p_traffic_fsm`)
 
