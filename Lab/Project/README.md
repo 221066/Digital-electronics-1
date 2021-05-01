@@ -85,7 +85,7 @@ architecture testbench of tb_displayer is       --define all require signals and
     signal s_seg        : std_logic_vector(3 - 1 downto 0);
 
 begin
-    uut_displayer : entity work.displayer       --porting all inputs/outputs
+    uut_displayer : entity work.displayer               --porting all inputs/outputs
         port map(
             cnt         => s_cnt,
             clk125Hz_i  => s_clk_125Hz,
